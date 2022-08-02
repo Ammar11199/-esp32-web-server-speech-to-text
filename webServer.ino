@@ -1,5 +1,3 @@
-
-
 // Load Wi-Fi library
 #include <WiFi.h>
 
@@ -104,3 +102,4 @@ void loop(){
     Serial.println("");
   }
 }
+
